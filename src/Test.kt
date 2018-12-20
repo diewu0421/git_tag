@@ -5,4 +5,5 @@
  */
 fun main(args: Array<String>) {
     print("Nihao")
+    print("tag test")
 }
