@@ -7,5 +7,5 @@ fun main(args: Array<String>) {
     print("Nihao")
     print("tag test")
     print("tes tafkasfd")
-    print("asdfasf")
+    print("master")
 }
